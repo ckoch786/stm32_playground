@@ -1,0 +1,8 @@
+.metadata
+RemoteSystemsTempFiles
+*.swp
+*~
+CMSIS
+Utilities
+HAL_Driver
+Debug
